@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    color:black ;
+    box-shadow: 20px 20px 20px white;
+}
+
+#BedRoom_btn{
+    width: 50%;;
+}
+
+#tv_ac_btn{
+    width: 50%;;
+}
+
+#Dsk_btn{
+    width: 50%;;
+}
+
+#btl_btn{
+    width: 50%;;
+}
+
+#bskt_btn{
+    width: 50%;;
+}
